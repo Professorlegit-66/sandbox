@@ -165,16 +165,6 @@ Deepening Machine Learning and moving into Deep Learning, while exploring RAG-ba
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EF609,100:38BDF8&height=3&section=header" width="100%"/>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-Haider1&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:22C55E&height=3&section=header" width="100%"/>
-
 ## 🎯 Current Learning Path:
 
 ```text
