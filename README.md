@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Machine Learning
+### 🔹 Machine Learning:
 
 Structured, continuously updated record of my ML journey — NumPy/Pandas, EDA, feature engineering, dimensionality reduction, ML pipelines, and core algorithms.
 
@@ -50,7 +50,7 @@ Structured, continuously updated record of my ML journey — NumPy/Pandas, EDA, 
 </td>
 <td width="50%" valign="top">
 
-### 📚 StudyVault AI
+### 📚 StudyVault AI:
 
 An AI-powered academic study assistant featuring multi-document RAG (FastAPI & React), smart flashcards with SM-2 spaced repetition, and an interactive study companion.
 
@@ -69,7 +69,7 @@ An AI-powered academic study assistant featuring multi-document RAG (FastAPI & R
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 PathPilot AI
+### 🧭 PathPilot AI:
 
 An AI-powered education and career navigator that matches students with careers, programs, universities, and scholarships, then builds a personalized roadmap through an agentic AI layer.
 
@@ -86,7 +86,7 @@ An AI-powered education and career navigator that matches students with careers,
 </td>
 <td width="50%" valign="top">
 
-### 📄 Document Summarizer
+### 📄 Document Summarizer:
 
 Full-stack AI app that summarizes PDF, DOCX, and TXT files, deployed entirely on free-tier infrastructure. Just upload a document, choose the summary style and get your summary fast.
 
